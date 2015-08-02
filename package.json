@@ -10,7 +10,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "elm-select": "^1.0.0"
+    "elm-select": "^1.0.0",
+    "cross-style": "^1.0.0"
   },
   "devDependencies": {},
   "repository": {
