@@ -1,0 +1,32 @@
+{
+  "name": "css-cross-transform",
+  "version": "1.0.0",
+  "description": "Modify CSS transform properties with one JavaScript call.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "elm-select": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:IonicaBizau/css.cross-transform.js.git"
+  },
+  "keywords": [
+    "css",
+    "cross",
+    "transform",
+    "js"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/css.cross-transform.js/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/css.cross-transform.js"
+}
