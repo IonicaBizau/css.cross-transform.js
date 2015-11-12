@@ -5,7 +5,7 @@ Modify CSS transform properties with one JavaScript call.
 ## Installation
 
 ```sh
-$ npm i -g css-cross-transform
+$ npm i css-cross-transform
 ```
 
 ## Example
