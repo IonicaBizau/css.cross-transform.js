@@ -1,14 +1,18 @@
+
 # css-cross-transform [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/css-cross-transform.svg)](https://www.npmjs.com/package/css-cross-transform) [![Downloads](https://img.shields.io/npm/dt/css-cross-transform.svg)](https://www.npmjs.com/package/css-cross-transform) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Modify CSS transform properties with one JavaScript call.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save css-cross-transform
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -18,7 +22,8 @@ var CSSCrossTransform = require("cross-transform");
 CSSCrossTransform(".some-class", "rotate(42deg)");
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `CSSCrossTransform(elm, value)`
 Create css transform properties with cross-browser support.
@@ -30,13 +35,13 @@ Create css transform properties with cross-browser support.
 #### Return
 - **NodeList|Array** The selected elements.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
