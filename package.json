@@ -1,6 +1,6 @@
 {
   "name": "css-cross-transform",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Modify CSS transform properties with one JavaScript call.",
   "main": "lib/index.js",
   "directories": {
@@ -24,7 +24,7 @@
     "transform",
     "js"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/css.cross-transform.js/issues"
@@ -34,12 +34,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
