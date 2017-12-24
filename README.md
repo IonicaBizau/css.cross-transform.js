@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save css-cross-transform
+# Using npm
+npm install --save css-cross-transform
+
+# Using yarn
+yarn add css-cross-transform
 ```
 
 
